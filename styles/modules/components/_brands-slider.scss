@@ -1,0 +1,48 @@
+.marcas{
+    height: 12rem;
+    .slider-logos{
+        height: 12rem;
+        .slick-list{
+             height: 12rem;
+            .slick-track{
+                 height: 12rem;
+                .slick-slide {
+                     height: 12rem;
+                    .slide{
+                        height: 12rem;
+                        img{
+                            height: 5rem;
+                            margin: 3.5em auto;
+                            width: auto;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media (max-width: 600px){
+    .marcas{
+        height: 9rem;
+        .slider-logos{
+            height: 9rem;
+            .slick-list{
+                 height: 9rem;
+                .slick-track{
+                     height: 9rem;
+                    .slick-slide {
+                         height: 9rem;
+                        .slide{
+                            height: 9rem;
+                            img{
+                                height: 3rem;
+                                margin: 3rem auto;
+                                width: auto;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
