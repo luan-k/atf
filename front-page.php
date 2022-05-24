@@ -23,8 +23,8 @@
         </div>
     </section>
 
-    <section class="pagamentos mt-6 container bg-black">
-        <div class="grid grid-cols-1 md:grid-cols-4 text-white rounded-2xl py-12">
+    <section class="pagamentos mt-6  bg-black min-w-full">
+        <div class="grid grid-cols-1 md:grid-cols-4 container text-white rounded-2xl py-12">
             <div class="pagamentos__wrapper grid grid-cols-3 border-b-4 md:border-b-0 md:border-r-4 border-double border-white py-3 px-3">
                 <i class="pagamentos__wrapper--icon fas fa-lock text-6xl m-auto" ></i>
                 <div class="texts col-span-2">
@@ -101,14 +101,14 @@
         </div>
     </section>
 
-    <section class="filter-ad mt-6 container bg-black py-9">
-        <div class="grid grid-cols-1 md:grid-cols-6 text-white">
+    <section class="filter-ad mt-6 min-w-full bg-black py-9">
+        <div class="grid grid-cols-1 md:grid-cols-6 container text-white">
             <div class="col-span-1 md:col-span-2"><img src="<?php echo get_theme_file_uri('/images/destaque.png')?>" alt=""></div>
             <div class="col-span-1 md:col-span-4 w-full flex flex-col align-middle content-center justify-center">
                 <h2 class="title-2 text-5xl uppercase w-full mb-5 flex-end justify-end" >
                     <span class="text-primary text-5xl w-full mb-3">Filtros de transmissão the eagle</span>
                     <br>
-                    <span class="text-5xl w-full">
+                    <span class="text-5xl w-full font-light">
                         desempenho, qualidade e tecnologia
                     </span>
                 </h2>
@@ -193,7 +193,7 @@
         </div>
     </div>
 
-        <section class="strip-contato w-full bg-dark-primary py-12 mt-20">
+    <!--     <section class="strip-contato w-full bg-dark-primary py-12 mt-20">
             <div class="grid grid-cols-1 md:grid-cols-2 container">
                 <h3 class="title-2 text-white py-6 text-center md:text-left mb-5 md:mb-0" data-anime="left">Fale conosco!</h3>
                 <div class="grid grid-cols-2 md:grid-cols-5 gap-16">
@@ -217,7 +217,7 @@
                 </div>
                 
             </div>
-        </section>
+        </section> -->
 
     
 

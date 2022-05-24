@@ -39,8 +39,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="bg-transparent max-w-full text-3xl  space-x-12 font-medium menu-mob" id="navbarNavAltMarkup">
-                    <ul class="container relative flex items-center bg-black">
+                <div class="bg-transparent max-w-full text-3xl bg-black space-x-12 font-medium min-w-full menu-mob" id="navbarNavAltMarkup">
+                    <ul class="container relative flex items-center  ">
                         <!-- <li class="custom-menu-link ">
                             <a >Mais Categorias</a>
                             <?php

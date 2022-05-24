@@ -13,7 +13,7 @@
                             </h4>
 
                             <p class="footer-text">
-                                <i class="fab fa-whatsapp"></i> (48) 99831-1741
+                                <i class="fab fa-whatsapp"></i> (48) 99870-1315
                             </p>
                             <a class="footer-text" href="<?php echo esc_url(site_url('/contato')); ?>">
                                 <i class="far fa-envelope"></i> Enviar uma mensagem
@@ -26,15 +26,15 @@
                                 a empresa
                             </h4>
                             <div class="footer-text">
-                                <a class="footer-text" href="<?php echo esc_url(site_url('/categoria-produto/eletrodometicos/')); ?>"> Eletrodomésticos </a>
+                                <a class="footer-text" href="<?php echo esc_url(site_url('/categoria-produto/filtros/')); ?>"> Filtros Multimarcas </a>
                             </div>
                             <div class="footer-text">
-                                <a class="footer-text" href="<?php echo esc_url(site_url('/categoria-produto/decoracao-casa-e-cozinha/')); ?>">Decoração/casa e cozinha</a>
+                                <a class="footer-text" href="<?php echo esc_url(site_url('/categoria-produto/fluido-de-cambio-automatico/')); ?>">Transmissão Automática</a>
                             </div>
                             <div class="footer-text">
-                                <a class="footer-text" href="<?php echo esc_url(site_url('/categoria-produto/brinquedos-e-hobbies/')); ?>"> Brinquedos e Hobbies </a>
+                                <a class="footer-text" href="<?php echo esc_url(site_url('/categoria-produto/oleo-para-motores/')); ?>"> Óleo para motores </a>
                             </div>
-                            
+                           
                             
                         </div>
                         <div class="col-12 col-sm-4">
